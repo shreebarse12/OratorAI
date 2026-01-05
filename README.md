@@ -1,5 +1,5 @@
 # Orator AI - Your Personal Presentation Coach
-(Demo at :https://youtu.be/mXajQ91wOmw?si=TqcTlgrlj8RbJ6S3)
+
 
 <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/de427be4-9c0f-476d-9268-995fbc245161" />
 
